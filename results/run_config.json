@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "n_features": 52,
+  "n_train": 82071,
+  "n_test": 20518,
+  "device": "cuda"
+}
